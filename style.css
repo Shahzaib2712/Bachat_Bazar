@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    font-family: roboto;
+}
+.bgh1{
+    color: rgb(255, 255, 255);
+    margin-left:9%;
+    font-family: 'Fredoka One';
+}
+.para2{
+    color: rgb(255, 255, 255);
+}
